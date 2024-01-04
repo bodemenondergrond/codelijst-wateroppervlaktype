@@ -1,0 +1,9 @@
+uri,type,dc.id,collection,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+colt:wateroppervlaktypes,skos:Collection,wateroppervlaktypes,,,Collectie van wateroppervlaktypes.,,,,,,,,,,,,,cs,wateroppervlaktype,,,,,,
+ct:1,skos:Concept,1,colt:wateroppervlaktypes,,water voor het eerst waargenomen,,,,,,,,,,,,,cs:wateroppervlaktype,,,,,,,cs:wateroppervlaktype
+ct:2,skos:Concept,2,colt:wateroppervlaktypes,,water verdwenen,,,,,,,,,,,,,cs:wateroppervlaktype,,,,,,,cs:wateroppervlaktype
+ct:3,skos:Concept,3,colt:wateroppervlaktypes,,water terug tevoorschijn,,,,,,,,,,,,,cs:wateroppervlaktype,,,,,,,cs:wateroppervlaktype
+ct:4,skos:Concept,4,colt:wateroppervlaktypes,,water toegevoegd,,,,,,,,,,,,,cs:wateroppervlaktype,,,,,,,cs:wateroppervlaktype
+ct:5,skos:Concept,5,colt:wateroppervlaktypes,,water bij rust,,,,,,,,,,,,,cs:wateroppervlaktype,,,,,,,cs:wateroppervlaktype
+ct:6,skos:Concept,6,colt:wateroppervlaktypes,,Begin van de dag/boring,,,,,,,,,,,,,cs:wateroppervlaktype,,,,,,,cs:wateroppervlaktype
+ct:7,skos:Concept,7,colt:wateroppervlaktypes,,Einde van de dag/boring,,,,,,,,,,,,,cs:wateroppervlaktype,,,,,,,cs:wateroppervlaktype
