@@ -1,0 +1,56 @@
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/1> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/2> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/3> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/4> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/5> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/6> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/7> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#notation> "wateroppervlaktypes" .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/wateroppervlaktype/wateroppervlaktypes> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectie van wateroppervlaktypes."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/1> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/1> <http://www.w3.org/2004/02/skos/core#notation> "1" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/1> <http://www.w3.org/2004/02/skos/core#prefLabel> "water voor het eerst waargenomen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/1> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/2> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/2> <http://www.w3.org/2004/02/skos/core#notation> "2" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/2> <http://www.w3.org/2004/02/skos/core#prefLabel> "water verdwenen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/3> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/3> <http://www.w3.org/2004/02/skos/core#notation> "3" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/3> <http://www.w3.org/2004/02/skos/core#prefLabel> "water terug tevoorschijn"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/3> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/4> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/4> <http://www.w3.org/2004/02/skos/core#notation> "4" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/4> <http://www.w3.org/2004/02/skos/core#prefLabel> "water toegevoegd"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/4> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/5> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/5> <http://www.w3.org/2004/02/skos/core#notation> "5" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/5> <http://www.w3.org/2004/02/skos/core#prefLabel> "water bij rust"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/5> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/6> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/6> <http://www.w3.org/2004/02/skos/core#notation> "6" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Begin van de dag/boring"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/6> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/7> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/7> <http://www.w3.org/2004/02/skos/core#notation> "7" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Einde van de dag/boring"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.opslaglocatie" .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/1> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/2> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/3> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/4> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/5> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/6> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/wateroppervlaktype/7> .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/wateroppervlaktype> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lijst met types wateroppervlakte"@nl .

@@ -1,0 +1,10 @@
+uri,type,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+conceptscheme:wateroppervlaktype,,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.opslaglocatie,,,Lijst met types wateroppervlakte,,,,,,,,,,,,,,,,,,,,
+collectie:wateroppervlaktypes,skos:Collection,,,wateroppervlaktypes,Collectie van wateroppervlaktypes.,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,
+1,skos:Concept,,collectie:wateroppervlaktypes,1,water voor het eerst waargenomen,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,conceptscheme:wateroppervlaktype
+2,skos:Concept,,collectie:wateroppervlaktypes,2,water verdwenen,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,conceptscheme:wateroppervlaktype
+3,skos:Concept,,collectie:wateroppervlaktypes,3,water terug tevoorschijn,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,conceptscheme:wateroppervlaktype
+4,skos:Concept,,collectie:wateroppervlaktypes,4,water toegevoegd,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,conceptscheme:wateroppervlaktype
+5,skos:Concept,,collectie:wateroppervlaktypes,5,water bij rust,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,conceptscheme:wateroppervlaktype
+6,skos:Concept,,collectie:wateroppervlaktypes,6,Begin van de dag/boring,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,conceptscheme:wateroppervlaktype
+7,skos:Concept,,collectie:wateroppervlaktypes,7,Einde van de dag/boring,,,,,,,,,,,,,conceptscheme:wateroppervlaktype,,,,,,,conceptscheme:wateroppervlaktype
